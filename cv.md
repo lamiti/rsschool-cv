@@ -2,7 +2,7 @@
 
 ![me](./assets/Me.jpg)
 
-+3752982938 (Belarus)
++375298293842 (Belarus)
 
 Artyom#0931 (Discord)
 
