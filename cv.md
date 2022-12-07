@@ -2,9 +2,9 @@
 
 ![me](./assets/Me.jpg)
 
-+375298293842 (Belarus)
+**+375298293842 (Belarus)**
 
-Artyom#0931 (Discord)
+**Artyom#0931 (Discord)**
 
 I live in Belarus, Brest. I am studying programming in a JavaScript course, I hope to get a job in the future.
 
