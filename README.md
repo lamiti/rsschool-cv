@@ -1,1 +1,1 @@
-# rsschool-cv
+https://lamiti.github.io/rsschool-cv/
