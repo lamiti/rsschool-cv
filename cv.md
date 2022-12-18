@@ -1,6 +1,6 @@
 ## Artsiom Shauchuk
 
-![me](./img/Me.jpg)
+![me](./assets/img/Me.jpg)
 
 **+375298293842 (Belarus)**
 
